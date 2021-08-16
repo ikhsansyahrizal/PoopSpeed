@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PoopSpeed</string>
+    <string name="tap_me">Tap Me !</string>
+    <string name="your_score">Score: %1$d</string>
+    <string name="time_left">Time: %1$d</string>
+    <string name="game_over_message">Time up! Your Score Was : %1$d</string>
+</resources>
